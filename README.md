@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @asert303
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Html/css and python
